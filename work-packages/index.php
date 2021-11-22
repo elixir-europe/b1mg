@@ -45,7 +45,7 @@
         <p class="mt-1"><i class="icofont-arrow-right has-text-primary"></i><a href="wp5">Work Package 6 page</a></p>
         <div class="media grey px-3 py-3 mt-6 mb-6">
             <div class="media-left">
-                <img src="/images/light-bulb.svg" width="30" class="level-item" />
+                <img src="/images/light-bulb.svg" width="30" class="level-item" alt="Information about work package" />
             </div>
             <p class="media-content mt-2">If you are not familiar with terms like 'Work Package', see the <a href="/about/glossary">glossary page</a> for the project management terms used in the project. </p>
         </div>

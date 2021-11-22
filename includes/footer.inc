@@ -10,9 +10,9 @@
       </div>
     </div>
     <div class="column has-text-right">
-      <p><a href="https://www.linkedin.com/company/b1mg-project/"><i class="icofont-linkedin has-text-primary is-size-1 pr-2" title="LinkedIn"></i></a> <a href="https://twitter.com/B1MG_Project"><i class="icofont-twitter  has-text-primary is-size-1 pr-3" title="Twitter"></i></a><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community"><i class="icofont-letter has-text-primary is-size-1" title="Newsletter"></i></a></p>
+      <p><a href="https://www.linkedin.com/company/b1mg-project/" aria-label="Linkedin"><i class="icofont-linkedin has-text-primary is-size-1 pr-2" title="LinkedIn"></i></a> <a href="https://twitter.com/B1MG_Project" aria-label="Twitter"><i class="icofont-twitter  has-text-primary is-size-1 pr-3" title="Twitter"></i></a><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community" aria-label="mailchimp"><i class="icofont-letter has-text-primary is-size-1" title="Newsletter"></i></a></p>
       <p class="mt-2"><a href="mailto:b1mg-coordination@elixir-europe.org" class="underline">b1mg-coordination@elixir-europe.org</a></p>
-      <p class="mt-1"><a href="/privacy" class="underline">Privacy</a></p>
+      <p class="mt-1"><a href="/privacy" class="underline">Privacy</a> | <a href="/accessibility">Accessibility</a></p>
     </div>
   </div>
   <!--<div class="columns">

@@ -34,7 +34,7 @@
 <p>Some countries have already set up ways to share this information within their country, but the B1MG Project aims to extend this and make it possible to allow access to the data across borders. This will allow for a huge amount of data to become available to researchers and clinicians, and enable them to get a better understanding of rare diseases and variations of more common diseases such as cancer. It will lead to the more widespread practice of personalised medicine, and to more innovative and effective healthcare.</p>
 <div class="media grey px-3 py-3 my-55">
     <div class="media-left">
-        <img src="/images/light-bulb.svg" width="30"  />
+        <img src="/images/light-bulb.svg" width="30" alt="Information about European research projects"  />
     </div>
     <p class="media-content mt-2">If you are not familiar with terms used in European research projects, you might want to scan the  <a href="/about/glossary">Glossary page</a> next. </p>
 </div>

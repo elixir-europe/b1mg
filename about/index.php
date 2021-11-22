@@ -21,7 +21,7 @@
         <p>But the project will look 'beyond' the 1+MG Initiative and drive the development of a data sharing infrastructure that goes beyond the lifetime of 1+MG, and beyond 1 million genomes. </p>
         <div class="media grey px-3 pb-2 pt-3 my-55">
             <div class="media-left">
-                <img src="/images/light-bulb.svg" width="30"  />
+                <img src="/images/light-bulb.svg" width="30" alt="Information about Genotype and phenotype"  />
             </div>
             <p class="media-content mt-2">Not sure what 'genotype' and 'phenotype' mean? See the <a href="/about/guide-science">Simple guide to the science</a>. </p>
         </div>

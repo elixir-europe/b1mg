@@ -27,7 +27,7 @@
           <p>But B1MG will go 'beyond' the 1+MG Initiative by creating long-term means of sharing data beyond 2022, and enabling access to beyond 1 million genomes. See the <a href="/about">About page</a> for an overview of the project.</p>
             <div class="media px-3 py-3 mt-55 grey">
                 <div class="media-left">
-                    <img src="images/light-bulb.svg" width="30" class="level-item" />
+                    <img src="images/light-bulb.svg" width="30" class="level-item" alt="About what genome is" />
                 </div>
                 <p class="media-content mt-2"><strong>Not sure what a 'genome' is?</strong> See the <a href="/about/guide-science">Simple guide to the science</a> for an introduction to the biology behind B1MG. </p>
             </div>
@@ -35,12 +35,12 @@
         <h2 class="is-size-3 has-text-centered pb-3 mt-6">How will the project benefit society?</h2>
         <div class="columns">
           <div class="column has-text-centered bordered mb-5">
-        <img src="/images/health.svg" class="" width="150"/>
+        <img src="/images/health.svg" class="" width="150" alt="Better health and treatments for illnesses."/>
         <h3 class="">Better health and treatments for illnesses</h3>
         <p>Researchers and clinicians will be able to compare people's genetic and clinical information at the same time. This will help them detect illnesses earlier, predict the development of disease, and decide on the best ways to improve health.</p>
       </div>
       <div class="column has-text-centered bordered mb-5">
-        <img src="/images/economic-benefit.svg" class="" width="150"/>
+        <img src="/images/economic-benefit.svg" class="" width="150" alt="Economic benefits"/>
         <h3 class="">Economic benefits</h3>
         <p>Improvements in personalised medicine will make national health systems more efficient and cost-effective, and new insights into how genes affect a person's response to a drug will stimulate innovation and new products across the healthcare industry.</p>
       </div>
@@ -80,7 +80,7 @@
       </div>
       <div class="column pr-3-desktop">
         <div class="px-3 py-3 mb-5 mt-0 red-bg">
-                <div class="has-text-centered"><a href="https://www.linkedin.com/company/b1mg-project/"><i class="icofont-linkedin has-text-white is-size-1 pr-3" title="LinkedIn"></i></a> <a href="https://twitter.com/B1MG_Project"><i class="icofont-twitter  has-text-white is-size-1 pr-4" title="Twitter"></i></a><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community"><i class="icofont-letter has-text-white is-size-1" title="Newsletter"></i></a></div>
+                <div class="has-text-centered"><a href="https://www.linkedin.com/company/b1mg-project/" aria-label="Linkedin"><i class="icofont-linkedin has-text-white is-size-1 pr-3" title="LinkedIn"></i></a> <a href="https://twitter.com/B1MG_Project" aria-label="Twitter"><i class="icofont-twitter  has-text-white is-size-1 pr-4" title="Twitter"></i></a><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community" aria-label="Mailchimp"><i class="icofont-letter has-text-white is-size-1" title="Newsletter"></i></a></div>
             <p class="mt-3 mb-2 has-text-centered"><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community" class="underlined">Subscribe to our newsletter</a></p>
         </div>
         <div class="border-grey mt-55"><a class="twitter-timeline" data-lang="en" data-height="1200" href="https://twitter.com/B1MG_Project?ref_src=twsrc%5Etfw">Tweets by B1MG_Project</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
