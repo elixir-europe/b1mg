@@ -13,7 +13,7 @@ any questions, suggestions, etc.**
 
 ## Testing locally
 
-It is implemented in php without any backend, but intended to stay simple.You may need to configure virtual host or use Devilbox (http://devilbox.org/) .
+It is implemented in php without any backend, but intended to stay simple.You may need to configure virtual host or use Devilbox (http://devilbox.org/).
 
 ```
 git clone https://github.com/elixir-europe/b1mg.git
