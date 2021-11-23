@@ -13,13 +13,13 @@ any questions, suggestions, etc.**
 
 ## Testing locally
 
-It is implemented in php without any backend, but intended to stay simple.You may need to configure virtual host or use Devilbox (http://devilbox.org/).
+It is implemented in php without any backend, but intended to stay simple.You may need to configure virtual host or use Devilbox (http://devilbox.org/) 
 
 ```
 git clone https://github.com/elixir-europe/b1mg.git
 ```
 
-Please note that if SSL is not configured in your local then please comment out the below lines from the .htaccess file
+Please note that if SSL is not configured on your localhost then please comment out the below lines from the .htaccess file
 ```
 #RewriteCond %{HTTPS} !=on
 #RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
