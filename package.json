@@ -1,7 +1,7 @@
 {
   "name": "b1mg",
   "version": "1.0.0",
-  "description": "For the B1MG website.",
+  "description": "For the Beyond 1 Million Genomes (B1MG) website.",
   "main": "index.php",
   "directories": {
     "doc": "docs"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martin-nc/b1mg.git"
+    "url": "git+https://github.com/elixir-europe/b1mg.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/martin-nc/b1mg/issues"
+    "url": "https://github.com/elixir-europe/b1mg/issues"
   },
-  "homepage": "https://github.com/martin-nc/b1mg#readme",
+  "homepage": "https://github.com/elixir-europe/b1mg#readme",
   "dependencies": {
     "bulma": "^0.9.3"
   }
