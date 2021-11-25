@@ -46,7 +46,7 @@
       </div>
     </div>
 
-    <div class="media px-3 py-3 mt-5 grey">
+    <div class="media px-4 pt-3 pb-5 mt-5 grey">
       <div class="media-left has-text-danger" style="font-size: 5em;">
           <i class="icofont-speech-comments"></i>
       </div>

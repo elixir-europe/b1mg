@@ -48,3 +48,7 @@ Backup[ ]of[ ]*.numbers/
 
 1mg
 cgi-bin
+
+.sass-cache/
+scss/
+node-modules/

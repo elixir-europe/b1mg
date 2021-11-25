@@ -1,0 +1,25 @@
+{
+  "name": "b1mg",
+  "version": "1.0.0",
+  "description": "For the B1MG website.",
+  "main": "index.php",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-nc/b1mg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-nc/b1mg/issues"
+  },
+  "homepage": "https://github.com/martin-nc/b1mg#readme",
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
+}
