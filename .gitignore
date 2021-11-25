@@ -52,3 +52,4 @@ cgi-bin
 .sass-cache/
 scss/
 node-modules/
+node_modules/
