@@ -1,6 +1,6 @@
 <?php
    $title = "Participants | Beyond 1 Million Genomes (B1MG)";
-   $description = "Learn the basic science behind the project, including terms like 'genome', 'genotype' and 'phenotype'.";
+   $description = "Discover who is involved in the Beyond One Million Genomes project.";
    $section = "about";
    $page = "participants";
    include $_SERVER['DOCUMENT_ROOT']."/includes/header.inc";
