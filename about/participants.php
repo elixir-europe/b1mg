@@ -198,7 +198,7 @@
           <td><strong>Bengt Persson</strong> (Director of NBIS (National Bioinformatics Infrastructure Sweden); Head of Node, ELIXIR Sweden)</td>
         </tr>
         <tr>
-          <td><a href="https://www.vumc.org/">VU University Medical Centre</a></td>
+          <td><a href="https://www.vumc.com/">University Medical Centre (Vrie)</a></td>
           <td>VUmc</td>
           <td>The Netherlands</td>
           <td><strong>Jeroen Belien</strong> (Associate Professor, Department of Pathology)</td>
