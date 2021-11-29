@@ -39,13 +39,13 @@
           <td><a href="http://www.isciii.es/">Carlos III Health Institute</a></td>
           <td>ISCIII</td>
           <td>Spain</td>
-          <td><strong>Gonzalo ArÃ©valo</strong> (Deputy General Director for International Research Programmes and Institutional Relations)</td>
+          <td><strong>Gonzalo Ar&eacute;valo</strong> (Deputy General Director for International Research Programmes and Institutional Relations)</td>
         </tr>
         <tr>
           <td><a href="https://www.crg.eu/">Centre for Genomic Regulation</a> </td>
           <td>CRG</td>
           <td>Spain</td>
-          <td><strong>Ivo Gut</strong> (Director of the Centro Nacional de AnÃ¡lisis GenÃ³mico (CNAG-CRG))</td>
+          <td><strong>Ivo Gut</strong> (Director of the Centro Nacional de An&aacute;lisis Gen&oacute;mico (CNAG-CRG))</td>
         </tr>
         <tr>
           <td><a href="https://cuni.cz/UK-1.html">Charles University</a></td>
@@ -57,7 +57,7 @@
           <td><a href="https://www.csc.fi/">CSC-IT Centre for Science</a></td>
           <td>CSC</td>
           <td>Finland</td>
-          <td><strong>Tommi NyrÃ¶nen</strong> (Head of Node, ELIXIR Finland)</td>
+          <td><strong>Tommi Nyr&ouml;nen</strong> (Head of Node, ELIXIR Finland)</td>
         </tr>
         <tr>
           <td><a href="https://www.dtlprojects.nl/">DTL Projects</a></td>
@@ -156,7 +156,7 @@
           <td><a href="https://www.uni-lj.si/">University of Ljubljana</a></td>
           <td>UL</td>
           <td>Slovenia</td>
-          <td><strong>Brane LeskoÅ¡ek</strong> (Head of Node, ELIXIR Slovenia)</td>
+          <td><strong>Brane Lesko&#353;ek</strong> (Head of Node, ELIXIR Slovenia)</td>
         </tr>
         <tr>
           <td><a href="https://wwwen.uni.lu/">University of Luxembourg</a></td>
@@ -198,7 +198,7 @@
           <td><strong>Bengt Persson</strong> (Director of NBIS (National Bioinformatics Infrastructure Sweden); Head of Node, ELIXIR Sweden)</td>
         </tr>
         <tr>
-          <td><a href="https://www.vumc.com/">University Medical Centre (Vrie)</a></td>
+          <td><a href="https://www.vumc.com/">University Medical Centre, Vrie</a></td>
           <td>VUmc</td>
           <td>The Netherlands</td>
           <td><strong>Jeroen Belien</strong> (Associate Professor, Department of Pathology)</td>
