@@ -1,19 +1,17 @@
 # b1mg-project.eu
 
-This is the source code used to build our website: https://b1mg-project.eu/
+This is the code for the Beyond 1 Million Genomes (B1MG) website: https://b1mg-project.eu/. The B1MG project aims to make it easier for clinicians and researchers to find and  share genetic and clinical data across Europe. The project is funded by the European Union's Horizon 2020 Research and Innovation programme, and runs from June 2020 to May 2023.
 
 **DISCLAIMER:**
 
-**This repo is here for the purpose of 1) public backup, and 2) sharing how the website works.**
+**This is not a place to suggest changes in website content (through Pull Requests).** Changes in content need to pass through the relevant project participants. Feel free to create an issue for any more technical problems or suggestions, however.
 
-**This is NOT a place for issues, pull requests.**
-
-**Please contact Serena Scollen at serena.scollen@elixir-europe.org, or Martin Cook at martin.cook@elixir-europe.org, for
-any questions, suggestions, etc.**
+Please contact Serena Scollen at serena.scollen@elixir-europe.org, or Martin Cook at martin.cook@elixir-europe.org, for
+any questions or suggestions about content.
 
 ## Testing locally
 
-It is implemented in php without any backend, but intended to stay simple.You may need to configure virtual host or use Devilbox (http://devilbox.org/) 
+The site uses PHP to make it easier to implement server-side features if needed. At the moment the use of PHP is minimal (it is just used for conditional includes and rendering frontmatter). The site is also intended to be simple, so that it requires no maintenance during and after the project (i.e. no code updates). So you will need local server to run the site, like MAMP, XAMPP or a Docker container like Devilbox (http://devilbox.org/). 
 
 ```
 git clone https://github.com/elixir-europe/b1mg.git
