@@ -20,6 +20,26 @@
 
       <div class="column is-three-quarters pr-5">
         <h2 class="is-size-3">News</h2>
+
+          <h3 class="has-text-danger is-size-4">Experts debate secure access to genomic health data in Europe</h3>
+          <p>On 17 and 18 of November 2021, the B1MG project spent two full days debating the plan for secure cross-border access to genomic health data in Europe. The project organised a stakeholder meeting coupled with its General Assembly to align with stakeholders needs and review the project's trajectory for 2022.
+          </p>
+          <p>Over the coming weeks, a review of the points discussed during the meetings will be publicly released. Based on these outcomes, the project will shape, emphasise and reformulate tasks and activities into 2022.
+          </p>
+          <h3 class="is-size-5 mb-2 mt-5">2021 B1MG Stakeholder Meeting</h3>
+          <img src="/images/news/B1MG-stakeholder-meeting-2021.jpeg" alt="2021 B1MG Stakeholder Meeting" width="512" class="is-pulled-right mt-2 ml-5 mb-4"/>
+          <p>With approximately 300 attendees, the stakeholder meeting mainly strived to strengthen the alignment amongst stakeholders and the <a href="https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes" target="_blank">1+MIllion Genomes Initiative</a> (1+MG) efforts.
+          </p>
+          <p>As a result, attendees could better understand the 1+MG trust framework and the diverse aspects being tackled. Many of the participants’ words to describe these efforts demonstrate the impact and importance of the project’s work: ethics, collaboration, cooperation, together, transparency, common goal, standards and security.
+          </p>
+          <h3 class="is-size-5 mb-2 mt-5">2021 B1MG General Assembly</h3>
+          <p>The General Assembly gathered all Work Packages (WPs) into one virtual room to kick-start the meeting with the progress on the stakeholder engagement strategy, highlighting the previous Stakeholder Meeting as an important achievement and one that should be emulated later in 2022.</p>
+          <p>Other key topics discussed included ethical, legal and social implications (ELSI), national diversity in legal aspects, infrastructure, standards and quality guidelines, clinical and research data access requirements, personalised medicines and societal impact, health technology assessment framework, sustainability, national mirror groups and training.</p>
+          <p>A focus space was also provided to discuss each WP topic in smaller online rooms. The exchange between experts from different Work Packages across all conversations proved useful for aligning efforts, understanding different perspectives and ensuring all activities are fed into the overarching <a href="https://b1mg-project.eu/1mg/roadmap">1+MG roadmap</a>.
+          </p>
+
+          <p class="has-text-grey-dark has-text-right is-size-7">Posted 30 November 2021</p>
+
         <h3 class="has-text-danger is-size-4">Country visit videos now online</h3>
         <a href="/resources/"><img src="/images/videos/country-visit-uk.png" alt="Screenshot of UK visit video" width="250" class="is-pulled-right mt-2 ml-5 mb-4"/></a>
         <p>Over the last few months B1MG project partners virtually visited three countries with well-established genomic medicine programmes: the UK, Estonia and Finland. </p>
