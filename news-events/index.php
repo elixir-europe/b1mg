@@ -28,7 +28,9 @@
           </p>
           <h3 class="is-size-5 mb-2 mt-5">2021 B1MG Stakeholder Meeting</h3>
           <img src="/images/news/B1MG-stakeholder-meeting-2021.jpeg" alt="2021 B1MG Stakeholder Meeting" width="512" class="is-pulled-right mt-2 ml-5 mb-4"/>
-          <p>With approximately 300 attendees, the stakeholder meeting mainly strived to strengthen the alignment amongst stakeholders and the <a href="https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes" target="_blank">1+MIllion Genomes Initiative</a> (1+MG) efforts.
+          <p>With approximately 300 attendees, the meeting strived to strengthen the alignment amongst stakeholders and the <a href="https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes" target="_blank">1+MIllion Genomes Initiative</a> (1+MG) efforts.
+          </p>
+          <p>Parallel workshops for each use case (rare diseases, cancers, common and complex diseases, infectious diseases, industry and the Genome of Europe) enabled specific recommendations and feedback from these specific stakeholder groups on elements of the 1+MG Trust Framework.
           </p>
           <p>As a result, attendees could better understand the 1+MG trust framework and the diverse aspects being tackled. Many of the participants’ words to describe these efforts demonstrate the impact and importance of the project’s work: ethics, collaboration, cooperation, together, transparency, common goal, standards and security.
           </p>
