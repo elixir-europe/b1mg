@@ -17,4 +17,3 @@ jobs:
           server: b1mg-project.eu
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
-          METHOD: sftp
