@@ -11,7 +11,7 @@ any questions or suggestions about content.
 
 ## Testing locally
 
-The site uses PHP to make it easier to implement server-side features if needed. At the moment the use of PHP is minimal (it is just used for conditional includes and rendering frontmatter). The site is also intended to be simple, so that it requires no maintenance during and after the project (i.e. no code updates). So you will need local server to run the site, like MAMP, XAMPP or a Docker container like Devilbox (http://devilbox.org/). 
+The site uses PHP to make it easier to implement server-side features if needed. At the moment the use of PHP is minimal (it is just used for conditional includes and rendering frontmatter). The site is also intended to be simple, so that it requires no maintenance during and after the project (i.e. no code updates). So you will need a local server to run the site, like MAMP, XAMPP or a Docker container like Devilbox (http://devilbox.org/). 
 
 ```
 git clone https://github.com/elixir-europe/b1mg.git
