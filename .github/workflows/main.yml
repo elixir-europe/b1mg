@@ -14,6 +14,6 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.2.0
         with:
-          server: b1mg-project.eu
+          server: ftp.a9437296-f6b2-4d90-8bd8-a780b961bffc.dummy
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
