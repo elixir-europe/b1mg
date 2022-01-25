@@ -54,7 +54,7 @@
       <h2>Data controller for the website</h2>
       <p>The website is developed by the <a href="https://elixir-europe.org/about-us/who-we-are">ELIXIR Hub</a>.</p>
       <p>Niklas Blomberg, ELIXIR Director<br />
-      Email: data-controller@ebi.ac.uk<br />
+      Email: <a href="mailto:data-controller@elixir-europe.org">data-controller@elixir-europe.org</a><br />
       EMBL-EBI, Wellcome Genome Campus, CB10 1SD Hinxton, Cambridgeshire, UK</p>
 
 </section>
