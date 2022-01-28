@@ -1216,12 +1216,6 @@
                     medical conditions who are at risk for unequal healthcare access, outcomes and exploitation.</dd>
             </dl>
         </div>
-        <h2 class="is-size-3 mb-2">See also:</h2>
-        <ul class="mt-0">
-            <li><a href="/about/how-organised">How the project is organised</a></li>
-            <li><a href="/about/how-organised">Work Packages</a></li>
-            <li><a href="/about/objectives">Objectives and key results</a></li>
-        </ul>
     </div>
 </section>
 <?php
