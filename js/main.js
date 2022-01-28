@@ -70,6 +70,31 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
   }
-
+  
+ /*
+  * Add tab functionality.
+  */
+  if (document.querySelectorAll(".tab").length !== 0) {
+    document.querySelectorAll(".tab").forEach(item => {
+        item.addEventListener("click", event => {
+            let panel = event.target.getAttribute("data-panel");
+            if (event.target.parentNode.getAttribute("class") !== "is-active") {
+                // Remove the "is-active" class from everywhere.
+                document.querySelectorAll(".is-active").forEach(item => {
+                    item.classList.remove("is-active");
+                });
+                // Add the "is-hidden" class to all panels.
+                document.querySelectorAll(".tab-panel").forEach(item => {
+                    item.classList.add("is-hidden");
+                });
+                // Add the active class to the clicked panel, and show the related panel.
+                event.target.parentNode.setAttribute("class", "is-active");
+                document.querySelectorAll('.tab-panel[data-panel="' + panel + '"]').forEach(item => {
+                        item.classList.remove("is-hidden");
+                });
+            }
+        })
+    })
+  }
 
 });
