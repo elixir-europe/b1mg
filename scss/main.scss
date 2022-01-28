@@ -70,6 +70,10 @@ html {
     border: 2px solid $grey-lighter; 
 }
 
+.is-borderless, .content table td.is-borderless {
+  border: 0;
+}
+
 // Loud speaker icon
 .announcement::before {
   padding-right: 10px;
@@ -324,6 +328,41 @@ figure {
   }
 }
 
+/*
+* Tabs.
+* -------------------------
+*/
+.tabs.is-boxed {
+  ul {
+    margin-left: 0;
+    border-bottom: 3px solid $red;
+    li::before {
+      content: "";
+    }
+    a {
+      margin-right: 10px;
+      background: $light;
+      border: 0;
+      border-bottom: 1px solid $red;
+      transition: .4s;
+      &:hover {
+        border-bottom: 1px solid $red;
+        color: white;
+        background-color: $red;
+      }
+    }
+    li.is-active a {
+      color: white;
+      background: $red;
+    }
+  }
+}
+
+.tab-panel {
+  padding: 3em 20px 20px;
+  border: 1px solid $grey-lighter;
+  border-top: 0;
+}
 
 /*
 * Footer styles.
