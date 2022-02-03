@@ -1,10 +1,12 @@
-# b1mg-project.eu
+<div align="center">
+  <img src="https://b1mg-project.eu/images/b1mg-logo.png" alt="B1MG logo" width="150" />
+</div>
+
+# Beyond 1 Million Genomes (B1MG)
 
 This is the code for the Beyond 1 Million Genomes (B1MG) website: https://b1mg-project.eu/. The B1MG project aims to make it easier for clinicians and researchers to find and  share genetic and clinical data across Europe. The project is funded by the European Union's Horizon 2020 Research and Innovation programme, and runs from June 2020 to May 2023.
 
-**DISCLAIMER:**
-
-**This is not a place to suggest changes in website content (through Pull Requests).** Changes in content need to pass through the relevant project participants. Feel free to create an issue for any more technical problems or suggestions, however.
+**PLEASE NOTE: this is not a place to suggest changes in website content (through Pull Requests).** Changes in content need to pass through the relevant project participants. Feel free to create an issue for any more technical problems or suggestions, however.
 
 Please contact Serena Scollen at serena.scollen@elixir-europe.org, or Martin Cook at martin.cook@elixir-europe.org, for
 any questions or suggestions about content.
