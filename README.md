@@ -26,7 +26,7 @@ Please note that if SSL is not configured on your localhost then please comment 
 #Header always set Content-Security-Policy "upgrade-insecure-requests;"
 ```
 
-## Contributors
+## Website contacts
 
-* Martin Cook
-* Prithviraj Mitra
+* Martin Cook ([@martin-nc](https://github.com/martin-nc)) 
+* Prithviraj Mitra ([@rajxir](https://github.com/rajxir))
