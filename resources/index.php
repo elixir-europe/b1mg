@@ -17,8 +17,17 @@
 <section class="section pt-55">
     <div class="container content has-text-grey-darker">
         <p>The B1MG project started in June 2020. As the project progresses we will be adding publications, publicity materials and the project deliverables to this section.</p>
+        <h2>Publications</h2>
+        <div class="columns is-mobile">
+            <div class="column has-text-centered mb-5 is-one-fifth">
+                <h5 class="pt-4">1+MG HEOR Summary Brief</h5>
+                <figure class = "m-0">
+                    <a href="/images/pdf/1+MG-HEOR-Summary-paper.pdf"><img class="border-grey" src="/images/b1mg-publication-1.png" alt="Screenshot of 1+MG HEOR Summary brief" /></a>
+                </figure>
+            </div>
+        </div>
         <!--<div class="card px-3 py-3 mt-55 grey announcement has-text-weight-bold"> The Stakeholder Portal is now live - see the <a href="https://b1mg-project.eu/news-events/index.php#stakeholder-portal">news story</a> or go to the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDRtFrsYIIkOjz0343Rub4F-74foqt8MZJFXsFg1iVyMGc2w/viewform">registration form</a>.</div>-->
-        <h2>Videos</h2>
+        <h2 class="mt-0">Videos</h2>
 <h3 class="mt-0">Country visits (2021)</h3>
 <p>In the first half of 2021 the B1MG project conducted virtual country visits, to find out how different countries in the project managed and used genomics data in healthcare. There were three country visits: to the UK, Estonia and Finland. Each visit also included <strong>flash talks</strong> from other countries: Belgium, Bulgaria, Denmark, Hungary, Latvia, Lithuania, Portugal, Spain and Sweden.</p>
 <p>The country visits were organised by <a href="/work-packages/wp5">Work Package 5</a> of the project. The goal was to exchange ideas and foster creative solutions for using genomic data in healthcare. These ideas will help the Work Package develop a roadmap for the adoption of genomic data in healthcare across Europe.</p>
