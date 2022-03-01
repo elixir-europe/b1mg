@@ -21,8 +21,7 @@ $navbar-dropdown-item-hover-color: white;
 $navbar-dropdown-item-hover-background-color: $red;
 $navbar-dropdown-arrow: hsl(0, 0%, 29%); //$grey-dark
 
-@import '../node_modules/bulma/bulma.sass';
-
+@import "../node_modules/bulma/bulma.sass";
 
 /*
 * CUSTOM STYLES
@@ -364,8 +363,8 @@ figure {
   border-top: 0;
 }
 
-*
-* Tooltip style overrides.
+/*
+* Tooltip style overrides
 * -------------------------
 */
 span[data-tooltip] {

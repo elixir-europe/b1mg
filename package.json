@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/elixir-europe/b1mg#readme",
   "dependencies": {
-    "@creativebulma/bulma-tooltip": "^1.2.0",
+    "@creativebulma/bulma-tooltip": "^1.2.0"
+  },
+  "devDependencies": {
     "bulma": "^0.9.3"
   }
 }

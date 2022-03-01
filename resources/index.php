@@ -281,7 +281,7 @@
           <td colspan="3" class="has-background-white-ter"><strong class="is-size-5 has-text-grey">September 2020</strong></td>
         </tr>
         <tr>
-          <td>Project Handbook 1v0</td>
+            <td><a href="https://zenodo.org/record/5018457#.YgYuW-77RpQ">Project Handbook 1v0</a></td>
           <td>D6.1</td>
           <td>WP6</td>
         </tr>
@@ -289,7 +289,7 @@
           <td colspan="4" class="has-background-white-ter"><strong class="is-size-5 has-text-grey">October 2020</strong></td>
         </tr>
         <tr>
-          <td>Document describing the operational organisation and processes for the Stakeholder Coordination Group (SCG)</td>
+            <td><a href="https://zenodo.org/record/5786736#.YgYul-77RpQ">Document describing the operational organisation and processes for the Stakeholder Coordination Group (SCG)</a></td>
           <td>D1.1</td>
           <td>WP1</td>
         </tr>
@@ -302,7 +302,7 @@
           <td>WP6</td>
         </tr>
         <tr>
-          <td>Communication Strategy</td>
+            <td><a href="https://zenodo.org/record/5018436#.YgYvB-77RpQ">Communication Strategy</a></td>
           <td>D6.3</td>
           <td>WP6</td>
         </tr>
@@ -348,12 +348,12 @@
           <td colspan="4" class="has-background-white-ter"><strong class="is-size-5 has-text-grey">September 2021</strong></td>
         </tr>
         <tr>
-          <td>Project Handbook 2v0</td>
+            <td><a href="https://zenodo.org/record/5704929#.YgYvgO77RpQ">Project Handbook 2v0</a></td>
           <td>D6.4</td>
           <td>WP6</td>
         </tr>
         <tr>
-          <td>Policy briefs - 1v0</td>
+            <td><a href="https://zenodo.org/record/5727650#.YgYvk-77RpQ">Policy briefs - 1v0</a></td>
           <td>D6.8</td>
           <td>WP6</td>
         </tr>

@@ -11791,7 +11791,6 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     text-align: right;
   }
 }
-
 span[data-tooltip] {
   border-bottom: 1px dashed #dbdbdb;
 }
@@ -11825,11 +11824,9 @@ span[data-tooltip].has-tooltip-warning {
 span[data-tooltip].has-tooltip-danger {
   border-bottom-color: #e80073;
 }
-
 .control span[data-tooltip] {
   border-bottom: none;
 }
-
 /*
 * CUSTOM STYLES
 * =========================
@@ -11998,11 +11995,9 @@ dt {
   font-weight: bold;
   margin-top: 1em;
 }
-
 .content dd {
   margin-left: 0;
 }
-
 /*
 * Extra image styles
 * -------------------------
@@ -12177,6 +12172,7 @@ figure.is-pulled-right {
 span[data-tooltip] {
   border-color: #aaa;
 }
+
 span[data-tooltip]:hover {
   border-color: #0a0a0a;
   color: #0a0a0a;
@@ -12270,3 +12266,4 @@ span[data-tooltip]:hover {
     text-align: left;
   }
 }
+
