@@ -51,4 +51,6 @@ cgi-bin
 .sass-cache/
 node-modules/
 node_modules/
-css/main.css.map
+.sass-cache/*
+.sass-cache/
+*.css.map
