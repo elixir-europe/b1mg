@@ -29,7 +29,7 @@
         <p class="mt-1"><i class="icofont-arrow-right has-text-primary"></i><a href="wp2">Work Package 2 page</a></p>
 
         <h2 class="has-text-primary mb-2 is-size-4 mt-5">WP3: Standards and quality guidelines</h2>
-        <p class="my-0">This WP will address the legal and ethical issues surrounding accessing and transferring personal health data. It will create a toolkit of ELSI policies and recommendations that will be the basis for sharing genomic and health data across Europe.</p>
+        <p class="my-0">This WP will identify gaps and best practices to facilitate cross-border searching, linking and analysis of genomic and health data. It will produce a set of recommendations and guidelines that cover the minimal requirements for the provenance of the samples, the generation of the whole genome sequencing (WGS) and whole-exome sequencing (WES) data.</p>
         <p class="mt-1"><i class="icofont-arrow-right has-text-primary"></i><a href="wp3">Work Package 3 page</a></p>
 
         <h2 class="has-text-primary mb-2 is-size-4 mt-5">WP4: Federate secure cross-border infrastructure</h2>
