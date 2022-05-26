@@ -19,10 +19,16 @@
         <p>The B1MG project started in June 2020. As the project progresses we will be adding publications, publicity materials and the project deliverables to this section.</p>
         <h2>Publications</h2>
         <div class="columns is-mobile">
-            <div class="column has-text-centered mb-5 is-one-fifth">
+            <div class="column has-text-centered mb-5 is-one-quarter">
                 <h5 class="pt-4">1+MG HEOR Summary Brief</h5>
                 <figure class = "m-0">
                     <a href="/images/pdf/1+MG-HEOR-Summary-paper.pdf"><img class="border-grey" src="/images/b1mg-publication-1.png" alt="Screenshot of 1+MG HEOR Summary brief" /></a>
+                </figure>
+            </div>
+            <div class="column has-text-centered mb-5 is-one-third">
+                <h5 class="pt-4">Genomics Policy Brief in Healthcare</h5>
+                <figure class = "m-0">
+                    <a href="/images/pdf/Policy_Brief_Genomics_in_Healthcare_2022.pdf"><img class="border-grey" src="/images/genome_policy_brief.jpg" alt="Screenshot of 1+MG HEOR Summary brief" /></a>
                 </figure>
             </div>
         </div>
