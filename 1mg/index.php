@@ -17,6 +17,15 @@
 <section class="section pt-3">
     <div class="container content has-text-grey-darker">
       <p class="mt-6">This page gives an overview of how the B1MG project, the 1+MG Initiative, the European Commission and stakeholders work together. It explains the support the B1MG project gives to the 1+MG Initiative.</p>
+        <h2>1+MG - Survey on accessible genomes</h2>
+        <p>The 1+MG team developed a questionnaire to understand what existing genomic datasets and corresponding phenotypic/clinical information are effectively available for participation in the 1+MG. The questionnaire also will help us know what are the challenges and bottlenecks for sharing, and how they may be overcome by development of technical or policy solutions.</p>
+        <p>The team will use your answers to make recommendations for the design of a European framework for sharing genomic and associated clinical data, develop solutions to overcome challenges, and also to provide guidance for participation in the 1+MG initiative.</p>
+        <p>The information you will provide in this survey will be accessed and analysed by members of the 1+MG Coordination Group, the 1+MG Working Group leaders and the European Commission staff members supporting the 1+MG initiative.</p>
+
+        <p>If you have any questions regarding this survey, please contact: <a href="mailto:CNECT-1MGenomes@ec.europa.eu" class="underline">CNECT-1MGenomes@ec.europa.eu</a></p>
+        <p><a class="button is-primary" href="https://ec.europa.eu/eusurvey/runner/1plusMG_Survey2020" target="_blank">Take the survey</a> </p>
+
+
         <h2 class="mt-55 is-size-3">The role of 1+MG</h2>
         <p>The <a href="https://ec.europa.eu/digital-single-market/en/european-1-million-genomes-initiative">1+ Million Genomes Initiative (1+MG)</a> is a commitment of 23 European countries to give cross-border access to one million sequenced genomes by 2022.</p>
         <ul>
