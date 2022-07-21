@@ -120,8 +120,7 @@ Institutional Relations, ISCIII)</td>
           </tr>
           <tr>
             <td>The Netherlands</td>
-            <td><strong>Ruben Kok</strong> (DTL Director) <br />
-              <strong>GertJan van Ommen</strong> (LUMC, DTLS) (BBMRI- NL/NKI / BBMRI-ERIC liaison, co-chair MG-NL mirror group)</td>
+            <td><strong>Ruben Kok</strong> (DTL Director)</td>
           </tr>
           <tr>
             <td>UK</td>
