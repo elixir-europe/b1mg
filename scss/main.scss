@@ -39,7 +39,12 @@ html {
 .mt-55 {
   margin-top: 2rem !important; 
 }
-
+.mb-66{
+  margin-bottom: 5rem !important;
+}
+.mb-7{
+  margin-bottom: 7rem !important;
+}
 .my-55 {
   margin: 2em 0; 
 }
@@ -93,14 +98,19 @@ html {
 .column.bordered {
   padding: 25px;
   border: 1px solid $grey-lighter;
-  margin: 0 1em; 
+  margin: 0 1em;
+}
+.column.bordered.forum{
+  padding: 10px 10px 5px 10px;
+  margin: 0;
+  border-radius: 5px;
 }
 
 
-/*
-* Navbar and hamburger menu styles
-* -------------------------
-*/
+  /*
+  * Navbar and hamburger menu styles
+  * -------------------------
+  */
 .navbar {
   padding: 10px 20px 7px; 
   .navbar-item {
@@ -146,6 +156,9 @@ html {
   font-size: 1.25rem; 
 }
 
+.content figure.no-top-margin:not(:first-child){
+  margin-top: 0;
+}
 
 /*
 * Lists in the content area.
@@ -188,6 +201,11 @@ html {
   margin-top: -0.5em; 
 }
 
+.content ul.alpha li:before {
+  list-style: none;
+  content:''
+}
+
 
 /*
 * Extra image styles
@@ -226,6 +244,9 @@ figure {
   border: 1px solid $grey-lighter;
   border-radius: 5px;
   background: $light; 
+}
+.media.full-width{
+  width: 100%;
 }
 
 .green-bg {

@@ -79,6 +79,7 @@
         </div>
       </div>
       <div class="column pr-3-desktop">
+          <div class="column mb-5 bordered forum"><a href="news-events/stakeholder-forum-2022"><img src="images/Thumb-B1MG-stakeholder-forum.png" class="is-rounded"></a> </div>
         <div class="px-3 py-3 mb-5 mt-0 red-bg">
                 <div class="has-text-centered"><a href="https://www.linkedin.com/company/b1mg-project/" aria-label="Linkedin"><i class="icofont-linkedin has-text-white is-size-1 pr-3" title="LinkedIn"></i></a> <a href="https://twitter.com/B1MG_Project" aria-label="Twitter"><i class="icofont-twitter  has-text-white is-size-1 pr-4" title="Twitter"></i></a><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community" aria-label="Mailchimp"><i class="icofont-letter has-text-white is-size-1" title="Newsletter"></i></a></div>
             <p class="mt-3 mb-2 has-text-centered"><a href="https://mailchi.mp/elixir-europe.org/become-part-of-the-b1mg-community" class="underlined">Subscribe to our newsletter</a></p>
