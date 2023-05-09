@@ -139,7 +139,7 @@
             <td>D6.7</td>
             <td><strong>Guiding principles and best practices examples for mirror groups</strong>
               <br />Recommendations for mirror groups.</td>
-            <td>May 2023</td>
+            <td>October 2023</td>
           </tr>
           <tr>
             <td>D6.8</td>
@@ -162,17 +162,23 @@
         </tbody>
         </table>
         <h2 class="mb-2 mt-6">WP leaders</h2>
-        <div class="columns profiles percent-50">
+        <div class="columns profiles percent-75">
           <div class="column">
             <figure>
               <img src="/images/people/juan-arenas-marquez.jpg" alt="Juan Arenas" />
               <figcaption>Juan Arenas (ELIXIR Hub)</figcaption>
             </figure>
           </div>
+            <div class="column">
+                <figure>
+                    <img src="/images/people/Elena.png" alt="Elena Doménech" class="profile" />
+                    <figcaption>Elena Doménech(ISCIII)</figcaption>
+                </figure>
+            </div>
           <div class="column">
             <figure>
-              <img src="/images/people/anon.jpg" alt="No image available" />
-              <figcaption>Esther Rodriguez (ISCIII)</figcaption>
+              <img src="/images/people/Fernando.png" alt="Fernando Martin Sanchez" class="profile" width="263" />
+              <figcaption>Fernando Martin Sanchez(ISCIII)</figcaption>
             </figure>
           </div>
 

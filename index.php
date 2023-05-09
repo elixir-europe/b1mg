@@ -18,7 +18,7 @@
     <div class="container content has-text-grey-darker">
       <div class="columns">
         <div class="column is-three-quarters pr-3-desktop">
-        <p>The <strong>Beyond 1 Million Genomes (B1MG)</strong> project is helping to create a network of genetic and clinical data across Europe. The project provides coordination and support to the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 23 European countries to give cross-border access to one million sequenced genomes by 2022.<!-- The BM1G project will support the initiative by:</p>
+        <p>The <strong>Beyond 1 Million Genomes (B1MG)</strong> project is helping to create a network of genetic and clinical data across Europe. The project provides coordination and support to the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 24 EU countries, the UK and Norway to give cross-border access to one million sequenced genomes by 2022.<!-- The BM1G project will support the initiative by:</p>
             <ul>
               <li>Consulting with stakeholders to establish how to access and share the genomic data</li>
               <li>Developing specifications and guidelines for accessing the data across borders, whilst making sure legal and ethical issues are addressed</li>
@@ -71,7 +71,7 @@
             <p>28 European partners from 25 countries. Participants are from both academia and industry.<br />
             <i class="icofont-arrow-right"></i>  See <a href="/about/participants">Participants</a>.</p>
             <h3 class="is-size-5 mb-2 mt-5 has-text-white">Duration</h3>
-            <p>Three years (June 2020 - May 2023)</p>
+            <p>Three years (June 2020 - October 2023)</p>
             <h3 class="is-size-5 mb-2 mt-5 has-text-white">Funding</h3>
             <p>&euro;4M, from the European Union's Horizon 2020 Research and Innovation programme</p>
             <h3 class="is-size-5 mb-2 mt-5 has-text-white">Contact</h3>

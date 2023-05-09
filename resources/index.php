@@ -19,6 +19,12 @@
         <p>The B1MG project started in June 2020. As the project progresses we will be adding publications, publicity materials and the project deliverables to this section.</p>
         <h2>Publications</h2>
         <div class="columns is-mobile">
+            <div class="column has-text-centered mb-5 is-one-third">
+                <h5 class="pt-4">1+MG HEOR Workshop Summary</h5>
+                <figure class = "m-0">
+                    <a href="/images/pdf/1+MG HEOR workshop summary brief.pdf"><img class="border-grey" src="/images/1+MG-HEOR-workshop-summary-brief.png" alt="Screenshot of 1+MG HEOR Workshop Summary brief" /></a>
+                </figure>
+            </div>
             <div class="column has-text-centered mb-5 is-one-quarter">
                 <h5 class="pt-4">1+MG HEOR Summary Brief</h5>
                 <figure class = "m-0">
@@ -32,6 +38,14 @@
                 </figure>
             </div>
         </div>
+
+        <h2 class="mt-55">Outcomes</h2>
+        <h3 class="mt-0">Proof-of-concept for the rare diseases use case</h3>
+        <div class="column has-text-centered mb-5">
+            <iframe class="youtube-video" src="https://www.youtube.com/embed/6MtIJA4xXdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+
+
         <!--<div class="card px-3 py-3 mt-55 grey announcement has-text-weight-bold"> The Stakeholder Portal is now live - see the <a href="https://b1mg-project.eu/news-events/index.php#stakeholder-portal">news story</a> or go to the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDRtFrsYIIkOjz0343Rub4F-74foqt8MZJFXsFg1iVyMGc2w/viewform">registration form</a>.</div>-->
         <h2 class="mt-0">Videos</h2>
 <h3 class="mt-0">Country visits (2021)</h3>
@@ -59,7 +73,6 @@
     <p>(9 videos)</p>
   </div>
 </div>
-
 
         <h2 class="mt-55">Deliverables</h2>
         <p>The project deliverables are all reports, and they will all be public except D6.2 (Project Data Management Plan). This is a report for project members only.</p>
@@ -428,7 +441,7 @@
           <td>WP6</td>
         </tr>
         <tr>
-          <td colspan="4" class="has-background-white-ter"><strong class="is-size-5 has-text-grey">May 2023</strong></td>
+          <td colspan="4" class="has-background-white-ter"><strong class="is-size-5 has-text-grey">October 2023</strong></td>
         </tr>
         <tr>
           <td>Third yearly report on SCG recommendations to the 1+MG national mirror groups to facilitate genome/ clinical data integration, specified to the 1+MG Use Cases.</td>

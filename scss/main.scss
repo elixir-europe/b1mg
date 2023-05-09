@@ -449,6 +449,16 @@ span[data-tooltip]:hover {
   }
 }
 
+/*
+* Youtube video
+* -------------------------
+*/
+
+.youtube-video{
+  aspect-ratio: 16 / 9;
+  width: 75%;
+  margin-bottom: 2rem;
+}
 
 /*
 * Larger screens.
@@ -479,6 +489,13 @@ span[data-tooltip]:hover {
   .profiles.percent-50 {
     width: 50%; 
   }
+  .profiles.percent-75 {
+    width: 75%;
+  }
+  img.profile{
+    padding: 35px;
+    background: #f1f1f1;
+  }
 
   .pr-3-desktop {
     padding-right: 1em; }
@@ -486,5 +503,17 @@ span[data-tooltip]:hover {
   figure.is-pulled-right {
     margin: 0 0 1em 1em;
     text-align: left; 
-  } 
+  }
 }
+
+/*
+* Smaller screens.
+* -------------------------
+*/
+
+@media (max-width: 500px) {
+  .youtube-video{
+    width: 100%;
+  }
+}
+

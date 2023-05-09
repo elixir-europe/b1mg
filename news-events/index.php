@@ -19,32 +19,18 @@
       <div class="columns">
 
       <div class="column is-three-quarters pr-5">
-          <h2 class="is-size-3">Upcoming Event</h2>
-          <h3 class="is-size-5 mb-2 mt-5">1+MG / B1MG Stakeholder Forum - 13 October 2022</h3>
-          <a href="https://elixir-events.eventscase.com/attendance/event/index/42072/EN" target="_blank"><img src="/images/news/B1MG-stakeholder-forum.png" alt="2022 B1MG Stakeholder Meeting" width="512" class="is-pulled-right mt-5 ml-5 mb-4"/></a>
-          <p class="mt-5">We would like to invite you to 'save the date' and register for the 3rd B1MG Stakeholder Forum which will take place on Thursday, 13th October 2022. In order to afford attendance to as many of you as possible, this will be a virtual meeting.
-          </p>
-          <p>The Beyond 1 Million Genomes (B1MG) project supports the EU's <a href="https://ec.europa.eu/digital-single-market/en/european-1-million-genomes-initiative" target="_blank"> 1+ Million Genomes Initiative</a> (1+MG) by bringing together diverse stakeholders to collectively create the infrastructure, the legal guidance and the best practices to enable this access.
-          </p>
-          <p>Being the last stakeholder forum organised by the B1MG project, this meeting will centre on identifying how stakeholders could contribute to the scale up and sustainability of the B1MG efforts.
-              Along with updates on progress to date (the 1+MG Trust Framework, the Maturity Level Model and industry engagement), highlights of the the day will include a panel discussion on industry engagement and parallel workshops to consider scale up and sustainability in the context of rare disease, cancer, common and complex disease, infectious disease and Genome of Europe (GoE).</p>
-
+          <h3 class="is-size-5 mb-2 mt-5">1+MG / B1MG Stakeholder Forum held on 13 October 2022</h3>
+          <p>The Beyond 1 Million Genomes (B1MG) project supports the EU's 1+ Million Genomes Initiative (1+MG) by bringing together diverse stakeholders to collectively create the infrastructure, the legal guidance and the best practices to enable this access.</p>
+          <p>In October, we held the last stakeholder forum organised by the B1MG project. This meeting centred on identifying how stakeholders could contribute to the scale up and sustainability of the B1MG efforts. Along with updates on progress to date (the 1+MG Trust Framework, the Maturity Level Model and industry engagement), highlights of the the day included a panel discussion on industry engagement and parallel workshops to consider scale up and sustainability in the context of rare disease, cancer, common and complex disease, infectious disease and Genome of Europe (GoE).</p>
+          <p>You can find more information about the event at the following link.</p>
           <p>
-              Please register to attend the meeting via the link <a href="https://elixir-events.eventscase.com/attendance/event/index/42072/EN" target="_blank">here</a>. The registration ends at <b>1200 hrs (CET) on the 12th of October</b>.
+          <ul>
+              <li>
+                  <a href="stakeholder-forum-2022">Agenda - 1+MG / B1MG Stakeholder Forum </a>
+              </li>
+          </ul>
           </p>
-          <p>
-              You can find more information about the event at the following link.
-          </p>
-          <p>
-              <ul>
-                  <li>
-                      <a href="stakeholder-forum-2022">Agenda - 1+MG / B1MG Stakeholder Forum </a>
-                  </li>
-              </ul>
-          </p>
-          <p>
-              Should you have any questions regarding the event, please contact <a href="mailto:b1mg-coordination@elixir-europe.org" class="underline">b1mg-coordination@elixir-europe.org</a>.
-          </p>
+          Should you have any questions regarding the event, please contact <a href="mailto:b1mg-coordination@elixir-europe.org" class="underline">b1mg-coordination@elixir-europe.org</a>.
 
         <h2 class="is-size-3">News</h2>
 

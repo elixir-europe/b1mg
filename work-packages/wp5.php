@@ -48,7 +48,7 @@
             <p> This will require setting up best practice standards, and the development of a review framework for healthcare systems to evaluate effectiveness against these standards, identify areas of improvement and devise strategies to implement these. For this purpose, we will define SMART (Specific, Measurable, Achievable, Relevant, Timely) indicators to assess processes and outcomes that contribute to progress. </p>
             <p>Standards and indicators will focus on multiple aspects of implementation, including technical requirements for genomic and health data acquisition and sharing processes, infrastructures, and ELSI guidelines, based on outputs from WP2, 3 and 4, and also literacy and education. The review systems and indicators will be co-created with the relevant 1+MG working groups, in particular the working groups for Health economics and outcome research (WG6) and for Use Cases Cancer, Rare diseases and Complex disorders/pharmacogenomics (WG8, 9, 10).</p>
             <p> We will also consult with other country representatives and experts as needed, including policy makers, health managers, health professionals, and legal aids, to profile healthcare systems in selected case study countries, towards the alignment with the B1MG maturity level model. The result will be a dynamic expert network to support adoption of genomics into mainstream healthcare.</p>
-            <p><strong class="has-text-danger">Participants:</strong>  INSA (Astrid Vicente, Teresa C. Almeida, Mafalda Bourbon, Alexandra Costa), ELIXIR Hub (Serena Scollen), UT (Andres Metspalu).</p>
+            <p><strong class="has-text-danger">Participants:</strong>  INSA (Astrid Vicente, Teresa C. Almeida, Mafalda Bourbon, Alexandra Costa, Maria de Fátima Silva Lopes, Maria Luís Cardoso), ELIXIR Hub (Serena Scollen), UT (Andres Metspalu).</p>
             <p><strong class="has-text-danger">Participants' roles:</strong> INSA: develop the B1MG maturity level model, including standards and indicators, and carry out the review/audits with each country. ELIXIR Hub: support the network of national representatives and mirror groups. UT: provide consultancy for the maturity level model development.</p>
           </div>
         </div>
@@ -59,7 +59,7 @@
             <p> The roadmap will be informed by the B1MG maturity level model, which incorporates the experiences of Use Cases as well as progress models of national healthcare systems, enabling each country to choose the most appropriate path to converge in a shared solution for the adoption of genomic data in healthcare.</p>
             <p> The roadmap will address issues in the entire chain of value, including implementation of technical infrastructure for generating genomic data and delivery in clinical context, enactment of ELSI policies, promotion of synergies with research and industry, capacity building, sustainable financing and reimbursement models and healthcare policy development.</p>
             <p> As such, the roadmap will provide a guidance tool to support the progression of healthcare systems along the B1MG maturity level model towards optimisation of infrastructure, processes and policy for sustainability. A strong effort will be made to promote the roadmap with key decision makers in governments, who have power regarding health investment decisions and strategic orientation of health systems.</p>
-            <p><strong class="has-text-danger">Participants:</strong>  INSA (Astrid Vicente, Teresa C. Almeida, Mafalda Bourbon, Alexandra Costa), ELIXIR Hub (Serena Scollen), UT (Andres Metspalu).</p>
+            <p><strong class="has-text-danger">Participants:</strong>  INSA (Astrid Vicente, Teresa C. Almeida, Mafalda Bourbon, Alexandra Costa, Maria de Fátima Silva Lopes, Maria Luís Cardoso), ELIXIR Hub (Serena Scollen), UT (Andres Metspalu).</p>
             <p><strong class="has-text-danger">Participants' roles:</strong> INSA: develop the roadmap. ELIXIR Hub: support the network of national representatives and mirror groups. UT: provide consultancy for roadmap development.</p>
           </div>
         </div>
@@ -71,7 +71,7 @@
             <p>Multiple dimensions will be considered, including technical feasibility, economic indicators, and we will address conditions for public-private partnerships. Cases studies in cancer monitoring and intervention, diagnosis of rare diseases, including the specific setting of neonatal units, pharmacogenomics, common
             disorders like dyslipidemias or others will be tested in selected European Countries, allowing the development of a harmonised methodology that takes into consideration specificities of national health care systems.</p>
             <p> For this purpose we will work closely with working groups from the 1+MG initiative, in particular the working groups for Health economics and outcome research (WG6) and for Use Cases Cancer, Rare diseases and Complex disorders/pharmacogenomics (WG8, 9, 10), mirror groups and other national health economics experts.</p>
-            <p><strong class="has-text-danger">Participants:</strong>  Lygature (Ilse Custers), INSA (Astrid Vicente, Teresa C. Almeida), UT (Andres Metspalu), ELIXIR Hub (Serena Scollen), ISCII (Esther Rodriguez)</p>
+            <p><strong class="has-text-danger">Participants:</strong>  Lygature (Ilse Custers), INSA (Astrid Vicente, Teresa C. Almeida, Maria de Fátima Silva Lopes, Maria Luís Cardoso), UT (Andres Metspalu), ELIXIR Hub (Serena Scollen), ISCII (Esther Rodriguez)</p>
             <p><strong class="has-text-danger">Participants' roles:</strong> Lygature: coordinate the development of health economic evaluation models and testing in case studies. INSA: participate in case studies. UT: participate in case studies. ELIXIR Hub: support the network of national representatives and mirror groups.</p>
           </div>
         </div>
@@ -92,7 +92,7 @@
               <p>In the first half of 2021 the WP organised three virtual country visits. These were to the UK, Estonia and Finland, but they also included flash talks from Belgium, Bulgaria, Denmark, Hungary, Latvia, Lithuania, Portugal, Spain and Sweden.</p>
               <p>See the <a href="/resources/">Resources section</a> for links to the video playlists.</p>
             </div>
-            <p><strong class="has-text-danger">Participants:</strong> INSA (Astrid Vicente, Teresa C. Almeida, Alexandra Costa), LYGATURE (Ilse Custers), ISCIII (Esther Rodriguez, Pepa Lopez), ELIXIR Hub (Serena Scollen), UT (Andres Metspalu).</p>
+            <p><strong class="has-text-danger">Participants:</strong> INSA (Astrid Vicente, Teresa C. Almeida, Alexandra Costa, Maria de Fátima Silva Lopes, Maria Luís Cardoso), LYGATURE (Ilse Custers), ISCIII (Esther Rodriguez, Pepa Lopez), ELIXIR Hub (Serena Scollen), UT (Andres Metspalu).</p>
             <p><strong class="has-text-danger">Participants' roles:</strong> INSA: host Workshop 1. LYGATURE: host workshop 2. INSA: organise country exchange visits. ISCIII: support the country visits. ELIXIR HUB: promote and support the country exchange visits. TAI and UT: host one country exchange visit.</p>
           </div>
         </div>
@@ -116,7 +116,7 @@
             <td>D5.2</td>
             <td><strong>Roadmap and guidance tool for countries.</strong>
               <br /> “Towards embedding genomic and health data shared by the 1+MG initiative into healthcare systems for effective implementation of Personalised Medicine”. Roadmap describes the overall strategy and main steps for the adoption of genomic data in healthcare systems, and will be disseminated as an overall report and policy briefs in several domains with potentially different target audiences: infrastructure, capacity building, ELSI, funding models and healthcare policy development.</td>
-            <td>May 2023</td>
+            <td>October 2023</td>
           </tr>
           <tr>
             <td>D5.3</td>

@@ -1,0 +1,566 @@
+@charset "utf-8";
+
+/*
+* Put variable overrides here:
+*/
+// Colors and fonts
+$blue:                #004494;
+$yellow:              #F8AF00;
+$turquoise-light:     #dff4f4;
+$red:                 #ce0066;
+$red-light:           #b82864;
+$light:               #f8f8f8;
+$tundora:             #404040;
+$white:               #ffffff;
+$primary:             $blue;
+
+$family-sans-serif:   "Trebuchet MS", "Lucida Grande", "Lucida Sans", Tahoma, sans-serif;
+
+// For main nav
+$link-hover:          $blue;
+$navbar-item-active-color: $blue;
+$navbar-item-hover-color: $blue;
+$navbar-item-hover-background-color: hsl(0, 0%, 93%); //$grey-lightest
+$navbar-dropdown-item-hover-color: $white;
+//$navbar-dropdown-item-hover-background-color: hsl(0, 0%, 93%);
+$navbar-dropdown-item-hover-background-color: $blue;
+$navbar-dropdown-arrow: $yellow; //$yellow
+
+//@import '/Users/pmitra/.nvm/versions/node/v16.13.0/lib/node_modules/bulma/bulma.sass';
+@import "../node_modules/bulma/bulma.sass";
+
+/*
+* CUSTOM STYLES
+* =========================
+*/
+
+html {
+  scroll-behavior: smooth; 
+}
+
+/*
+* Extra utility styles
+* -------------------------
+*/
+.mt-55 {
+  margin-top: 2rem !important; 
+}
+
+.my-55 {
+  margin: 2em 0; 
+}
+
+.pt-55 {
+  padding-top: 2em; 
+}
+
+.percent-15 {
+  width: 15%; 
+}
+
+.percent-20 {
+  width: 20%; 
+}
+
+.icon {
+  position: relative;
+  top: 3px; 
+}
+
+.border-grey {
+  border: 1px solid $grey-lighter; 
+}
+
+.border-grey-double {
+    border: 2px solid $grey-lighter; 
+}
+
+.is-borderless, .content table td.is-borderless {
+  border: 0;
+}
+
+// Loud speaker icon
+.announcement::before {
+  padding-right: 10px;
+  font-family: "Icofont";
+  content: '\ef90';
+  font-size: 2.5rem;
+  color: $red;
+  line-height: 1;
+  vertical-align: middle;
+  font-weight: normal; 
+}
+footer .icofont-linkedin:hover, footer .icofont-twitter:hover, footer .icofont-letter:hover{
+  color: $yellow !important;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+.social-widget .icofont-linkedin:hover, .social-widget .icofont-twitter:hover, .social-widget .icofont-letter:hover{
+  color: $primary !important;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+/*
+* Bordered boxes (Bulma doesn't have borders on boxes by default)
+* -------------------------
+*/
+.column.bordered {
+  padding: 25px;
+  border: 1px solid $grey-lighter;
+  margin: 0 1em; 
+}
+
+
+/*
+* Navbar and hamburger menu styles
+* -------------------------
+*/
+.navbar {
+  padding: 10px 20px 7px; 
+  .navbar-item {
+    font-size: 1.2em;
+    color: $tundora;
+  }
+  .navbar-burger {
+    background-color: $light;
+    border: 1px solid $grey-lighter;
+    border-radius: 5px; 
+  }
+  .navbar-link{
+    color: $tundora;
+    padding: 0rem 2.5em 0 0.75rem;
+  }
+  .navbar-link:hover{
+    color: $primary;
+  }
+  a.navbar-item
+  {
+    position: relative;
+  }
+  a.navbar-item:hover, .navbar-item a:hover{
+    //transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+  }
+  /*a.navbar-item.px-4:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: $blue;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+  }
+  a.navbar-item.px-4:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+  }
+  .navbar-item.has-dropdown{
+    position: relative;
+  }
+  .navbar-item.has-dropdown a.navbar-link:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: $blue;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+  }
+  .navbar-item.has-dropdown a:hover:before{
+    visibility: visible;
+    transform: scaleX(1);
+  }*/
+  .navbar-burger:hover {
+    background-color: $grey-lighter;
+  }
+  .navbar-burger span {
+    height: 2px;
+    left: calc(50% - 12px);
+    width: 25px;
+    color: $blue;
+  }
+  .navbar-link:not(.is-arrowless)::after {
+    right: 1.2em; 
+  }
+  .is-active.navbar-link:not(.is-arrowless)::after {
+    border-color: $blue;
+  }
+  .navbar-dropdown{
+    border-top: none;
+  }
+}
+
+
+/*
+* Headings in the content area.
+* -------------------------
+*/
+.content h2 {
+  color: $tundora;
+  line-height: 1.25; 
+  &:not(:first-child) {
+    margin-top: 1.5em; 
+  }
+}
+
+.content h3 {
+  color: #4a4a4a;
+  font-size: 1.25rem; 
+}
+
+
+/*
+* Lists in the content area.
+* -------------------------
+*/
+.content ul {
+  list-style: none;
+  margin-left: 2.5em;
+  li::before {
+    content: "\2022";
+    color: $tundora;
+    font-size: 1.2em;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em; 
+  } 
+  &.xbp > li {
+    padding-bottom: 0.3em; 
+  }
+  &.xxbp > li {
+    padding-bottom: 1em; 
+  }
+  h3, h4 {
+    display: inline-block; 
+  }
+  li + li {
+    margin-top: 0; 
+  }
+  ul {
+    list-style-type: none;
+    margin-top: 0.5em; 
+  }
+  ul ul {
+    list-style-type: none;
+  }
+}
+
+.content p + ul {
+  margin-top: -0.5em; 
+}
+
+
+/*
+* Extra image styles
+* -------------------------
+*/
+.img-full-width {
+  margin-left: 0;
+  margin-right: 0; 
+}
+
+figure {
+  figcaption {
+    font-style: normal;
+    font-size: .9em; 
+  }
+  &.is-pulled-right {
+    margin: 0 0 1em 1em;
+    text-align: left; 
+  }
+}
+
+.profiles figure {
+  margin-left: 0; 
+  img {
+    border: 1px solid $grey-lighter; 
+  }
+}
+
+
+/*
+* Override default card/hero styles and add coloured backgrounds.
+* -------------------------
+*/
+.media.grey, .card {
+  box-shadow: none;
+  border: 1px solid $grey-lighter;
+  border-radius: 5px;
+  background: $light; 
+}
+
+.blue-bg {
+  color: white;
+  background: $blue;
+  border: 0; 
+}
+
+.card.blue-bg {
+  ul li::before, h2, h3 {
+    color: white; 
+  }
+  a {
+    color: white;
+    text-decoration: underline; 
+  }
+}
+
+.red-bg {
+  color: white;
+  background: $red-light;
+  border: 1px solid $red;
+  border-radius: 5px;
+  padding: 25px; 
+  ul li::before {
+    color: white; 
+  }
+  a {
+    color: white; 
+  }
+  a.underlined {
+    border-bottom: 1px solid white; 
+  }
+  a:hover {
+    color: $grey-lighter;
+    border-color: $grey-lighter; 
+  }
+}
+.hero.yellow-bg{
+  background: $yellow;
+}
+.tundora-bg{
+  background: $tundora;
+  a{
+    color: #ffffff;
+  }
+}
+.yellow-bg{
+  background: $yellow;
+  border-radius: 5px;
+}
+.yellow{
+  color: $yellow;
+}
+
+
+/*
+* Accordions.
+* -------------------------
+*/
+.accordion {
+  background-color: $light;
+  cursor: pointer;
+  padding: 0.75em;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  text-align: left;
+  font-size: 1.2em;
+  line-height: 1.4; 
+  &:hover {
+    background-color: $grey-lighter; 
+  }
+  &.active, &.active strong {
+    background-color: $red;
+    color: white; 
+  }
+  &::before {
+    content: '\002B';
+    /* Unicode character for "plus" sign (+) */
+    font-size: 2.75em;
+    line-height: 0.8;
+    color: $blue;
+    float: left;
+    margin: 0 15px 0 0; 
+  }
+  &.active::before {
+    content: "\2212";
+    /* Unicode character for "minus" sign (-) */
+    color: white; 
+  }
+}
+
+.single-line.accordion {
+  width: 100%; 
+  &::before {
+    line-height: 0.4; 
+  }
+}
+
+.accordion-panel {
+  padding: 0;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  margin-bottom: 1em; 
+  & > div {
+    border-color: $red;
+    border-style: solid;
+    border-width: 0 1px 1px;
+    padding: 20px; }
+  strong.has-text-danger {
+    font-size: 1.1em; 
+  }
+}
+
+/*
+* Tabs.
+* -------------------------
+*/
+.tabs.is-boxed {
+  ul {
+    margin-left: 0;
+    border-bottom: 3px solid $red;
+    li::before {
+      content: "";
+    }
+    a {
+      margin-right: 10px;
+      background: $light;
+      border: 0;
+      border-bottom: 1px solid $red;
+      transition: .4s;
+      &:hover {
+        border-bottom: 1px solid $red;
+        color: white;
+        background-color: $red;
+      }
+    }
+    li.is-active a {
+      color: white;
+      background: $red;
+    }
+  }
+}
+
+.tab-panel {
+  padding: 3em 20px 20px;
+  border: 1px solid $grey-lighter;
+  border-top: 0;
+}
+
+/*
+* Tooltip style overrides
+* -------------------------
+*/
+span[data-tooltip] {
+  border-color: #aaa;
+}
+
+span[data-tooltip]:hover {
+  border-color: #0a0a0a;
+  color: #0a0a0a;
+}
+
+.tooltip-left-indent[data-tooltip]:not(.is-loading).has-tooltip-bottom::before, 
+.tooltip-left-indent[data-tooltip]:not(.is-disabled).has-tooltip-bottom::before, 
+.tooltip-left-indent[data-tooltip]:not([disabled]).has-tooltip-bottom::before {
+  left: 80%;
+}
+
+/*
+* Footer styles.
+* -------------------------
+*/
+.footer {
+  border-top: 5px solid $blue;
+  margin-top: 4em;
+  padding-top: 1em;
+  background: $blue;
+  font-size: 0.9em;
+  img {
+    vertical-align: middle; 
+  }
+  a {
+    color: white;
+  }
+  a.underline:hover {
+    text-decoration: underline; 
+  }
+}
+
+
+/*
+* Cookie banner.
+* -------------------------
+*/
+.cookie-banner {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  padding: 5px 30px 20px;
+  box-shadow: 0 -2px 16px rgba(50, 50, 50, 0.4);
+  transition: 400ms;
+  background: #ebebeb;
+  color: $tundora;
+  &.active-banner {
+    bottom: 0;
+  }
+  a {
+    color: $blue;
+    text-decoration: underline;
+  }
+  .button.cookie-btn {
+    border: 0;
+  }
+}
+
+
+/*
+* Larger screens.
+* -------------------------
+*/
+@media only screen and (min-width: 1024px) {
+  .navbar {
+    padding: 20px 0 15px;
+  }
+
+  #nav-container {
+    padding: 40px 0 40px 170px; 
+  }
+
+  #logo {
+    position: absolute;
+    left: 0;
+    top: 0; 
+  }
+
+  .img-full-width {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  .profiles.percent-50 {
+    width: 50%; 
+  }
+
+  .pr-3-desktop {
+    padding-right: 1em; }
+
+  figure.is-pulled-right {
+    margin: 0 0 1em 1em;
+    text-align: left; 
+  } 
+}

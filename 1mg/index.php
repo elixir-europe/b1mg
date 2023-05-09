@@ -42,7 +42,7 @@
       <h2 class="mt-6 is-size-3">The role of the B1MG project</h2>
       <p>The B1MG project primary role is to support the implementation of the 1+MG initiative by delivering the B1MG <strong>Description of Action (DoA)</strong> (project work plan).  Amendments to the DoA will be sought to ensure the DoA remains aligned with 1+MG Roadmap. The B1MG Work Package structure ensures that 1+MG Working Groups, Stakeholders and National Mirror Group needs are taken into consideration via the participation in the WPs while implementing the DoA.</p>
       <p>The B1MG will co-locate meetings with the 1+MG Coordination Team to align 1+MG and B1MG activities at the strategic and operational levels.</p>
-      <p>As B1MG project is a Coordination and Support Action (CSA) project there will be no (or limited) Research and Innovation (RIA) driven activity. It is a time limited project (June 2020 to May 2023).</p>
+      <p>As B1MG project is a Coordination and Support Action (CSA) project there will be no (or limited) Research and Innovation (RIA) driven activity. It is a time limited project (June 2020 to October 2023).</p>
       <h3>B1MG outputs and participation from 1+MG Working Groups (WGs)</h3>
       <table class="table is-bordered mt-3">
         <thead>

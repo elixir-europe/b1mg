@@ -96,6 +96,9 @@
                     <a href="/work-packages/wp6" class="navbar-item<?php echo ($page == 'wp6')? ' is-active' : ''; ?>">
                       WP6: Coordination Office
                     </a>
+                      <a href="/work-packages/wp7" class="navbar-item<?php echo ($page == 'wp7')? ' is-active' : ''; ?>">
+                          WP7: Support 1+MG Use Cases
+                      </a>
                   </div>
                </div>
                 <a href="/resources/" class="navbar-item px-4<?php echo ($section == 'resources')? ' is-active' : ''; ?>">
