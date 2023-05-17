@@ -77,6 +77,7 @@
         <h2 class="mt-55">Deliverables</h2>
         <p>The project deliverables are all reports, and they will all be public except D6.2 (Project Data Management Plan). This is a report for project members only.</p>
         <p> Links to the deliverables will be added as they are completed. You can find more details about the deliverables and the tasks that produced them in the <a href="/work-packages">Work Packages section</a>.</p>
+        <p>Deliverables are also published on the B1MG <a href="https://zenodo.org/search?page=1&size=20&q=b1mg">Zenodo community</a>.</p>
       <!--  <table class="table is-bordered mt-5">
           <thead>
           <tr class="is-selected is-size-5">
@@ -344,7 +345,7 @@
           <td>WP3</td>
         </tr>
         <tr>
-          <td>Phenotypic and clinical metadata framework - 1v0</td>
+            <td><a href="https://zenodo.org/record/6573854#.ZGTmJuzMLRJ">Phenotypic and clinical metadata framework - 1v0</a></td>
           <td>D3.4</td>
           <td>WP3</td>
         </tr>
@@ -385,32 +386,32 @@
           <td>WP1</td>
         </tr>
         <tr>
-          <td>Best practices for Next Generation Sequencing</td>
+            <td><a href="https://zenodo.org/record/7912923#.ZGTENuzMIrY">Best practices for Next Generation Sequencing</a></td>
           <td>D3.2</td>
           <td>WP3</td>
         </tr>
         <tr>
-          <td>Phenotypic and clinical metadata framework - 2v0</td>
+            <td><a href="https://zenodo.org/record/7554481#.ZGTDdezMIrY">Phenotypic and clinical metadata framework - 2v0</a></td>
           <td>D3.5</td>
           <td>WP3</td>
         </tr>
         <tr>
-          <td>Documented best practices in sharing and linking phenotypic and genetic data - 2v0</td>
+            <td><a href="https://zenodo.org/record/7342855#.ZGTDAuzMIrY">Documented best practices in sharing and linking phenotypic and genetic data - 2v0</a></td>
           <td>D3.8</td>
           <td>WP3</td>
         </tr>
         <tr>
-          <td>Secure data access demonstrator</td>
+            <td><a href="https://zenodo.org/record/7590822#.ZGTED-zMIrY">Secure data access demonstrator</a></td>
           <td>D4.2</td>
           <td>WP4</td>
         </tr>
         <tr>
-          <td>B1MG maturity level model and country-specific alignment within the model</td>
+            <td><a href="https://zenodo.org/record/6587561#.ZGTC0OzMIrY">B1MG maturity level model and country-specific alignment within the model</a></td>
           <td>D5.1</td>
           <td>WP5</td>
         </tr>
         <tr>
-          <td>Guiding principles and best practices examples for mirror groups</td>
+            <td><a href="https://zenodo.org/record/7565880#.ZGTDlezMIrY">Guiding principles and best practices examples for mirror groups</a></td>
           <td>D6.7</td>
           <td>WP6</td>
         </tr>
@@ -418,7 +419,7 @@
           <td colspan="4" class="has-background-white-ter"><strong class="is-size-5 has-text-grey">September 2022</strong></td>
         </tr>
         <tr>
-          <td>Report of ELSI Stakeholder Meetings</td>
+          <td><a href="https://zenodo.org/record/7590787#.ZGTDz-zMIrY">Report of ELSI Stakeholder Meetings</a></td>
           <td>D2.1</td>
           <td>WP2</td>
         </tr>
